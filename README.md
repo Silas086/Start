@@ -1,2 +1,2 @@
 # Start
-Just some recording of my programme study...
+Some basic code
